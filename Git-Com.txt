@@ -1,0 +1,11 @@
+git init
+git status
+git add <file>
+git commit -m "add command"
+git rm --cached
+git restore <file>
+git log (If we edit file that will not stage & log show it is Modified)
+git log --oneline
+git log --oneline --pretty
+git config --global user.name "<_ _ _>"
+git config --global user.email "<_ _ _>"
