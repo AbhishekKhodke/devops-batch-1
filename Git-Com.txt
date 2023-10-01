@@ -9,3 +9,7 @@ git log --oneline
 git log --oneline --pretty
 git config --global user.name "<_ _ _>"
 git config --global user.email "<_ _ _>"
+git clone <Repository URL>
+git checkout -b | git checkout
+git branch
+git remote -v | git remote
